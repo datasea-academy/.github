@@ -1,50 +1,48 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x400/0d1117/FFFFFF?text=Open.+Collaborative.+Data-Driven." alt="Datasea Labs Banner" width="100%" />
+  <img src="../img/background.jpg" alt="Banner Datasea Labs" width="100%" />
 </div>
 
 <br>
 
-# Open. Collaborative. Data-Driven.
+# Terbuka. Kolaboratif. Berbasis Data.
 
-**Datasea Labs** (Eksanta Division) enables students, researchers, and developers to bring choice, technology, and community to the world of Data Science. We believe in the power of open education and transparent research.
-
----
-
-### 🚀 Get Involved
-
-Right now, our community is building amazing data projects together. Whether you are a student, a mentor, or just curious, here is how you can get involved:
-
-* **Explore Research Projects**: Dive into our [Batch 1 Capstone Projects](#-featured-research-2025) covering Housing, Healthcare, and Spotify analysis.
-* **Join the Bootcamp**: Learn more about our "Eksanta" Data Science program.
-* **Contribute**: We welcome issues and pull requests on our public datasets.
-* **Ask Questions**: Use [repository issues](https://github.com/Datasea-Labs) to discuss specific findings or methodologies.
-
-Visit [datasea.dev](https://datasea.dev) to learn more about our main IT division.
+**Datasea Labs** (Divisi MIDTECH) memberdayakan mahasiswa, peneliti, dan pengembang untuk membawa teknologi dan semangat komunitas ke dalam dunia Data Science. Kami percaya pada kekuatan pendidikan terbuka dan riset yang transparan.
 
 ---
 
-### 🔭 Featured Research (2025)
+### 🚀 Mari Berkontribusi
 
-Here are the active repositories from our latest cohort:
+Saat ini, komunitas kami sedang membangun berbagai proyek data yang menarik. Baik Anda seorang mahasiswa, mentor, atau sekadar penasaran, berikut cara untuk terlibat:
 
-| Research Topic | Dataset Source | Status |
+* **Jelajahi Riset**: Pelajari [Proyek Capstone Batch 1](#-riset-unggulan-2025) kami yang mencakup topik Perumahan, Kesehatan, hingga Analisis Spotify.
+* **Ikuti Bootcamp**: Dapatkan informasi tentang program Data Science "Eksanta" kami.
+* **Berkontribusi**: Kami menerima *issues* dan *pull requests* pada dataset publik kami.
+* **Bertanya**: Gunakan tab [Issues](https://github.com/Datasea-Labs) untuk mendiskusikan temuan atau metodologi tertentu.
+
+---
+
+### 🔭 Riset Unggulan (2025)
+
+Berikut adalah repositori aktif dari kohort (angkatan) terbaru kami:
+
+| Topik Riset | Sumber Dataset | Status |
 | :--- | :--- | :--- |
-| **📈 Sales Forecasting** | Retail Data | ![Active](https://img.shields.io/badge/Status-Active-success) |
-| **❤️ Heart Disease Classification** | Health Metrics | ![Active](https://img.shields.io/badge/Status-Active-success) |
-| **🏠 House Prices Prediction** | Real Estate | ![Active](https://img.shields.io/badge/Status-Active-success) |
-| **🎵 Spotify Trends Analysis** | Spotify API | ![Active](https://img.shields.io/badge/Status-Active-success) |
-| **👥 Employee Attrition** | IBM HR Data | ![Active](https://img.shields.io/badge/Status-Active-success) |
+| **📈 Sales Forecasting** | Data Ritel | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
+| **❤️ Heart Disease Classification** | Data Kesehatan | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
+| **🏠 House Prices Prediction** | Real Estate | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
+| **🎵 Spotify Trends Analysis** | Spotify API | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
+| **👥 Employee Attrition** | Data HR IBM | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
 
 ---
 
-### 🤝 Code of Conduct
+### 🤝 Kode Etik (Code of Conduct)
 
-Datasea projects adopt the **Open Source Code of Conduct**. We are committed to providing a friendly, safe, and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
+Proyek Datasea mengadopsi **Open Source Code of Conduct**. Kami berkomitmen untuk menyediakan lingkungan yang ramah, aman, dan terbuka bagi semua orang, terlepas dari tingkat pengalaman, latar belakang, identitas, maupun karakteristik lainnya.
 
-For more information, see our [Community Guidelines](https://github.com/datasea-dev).
+Untuk informasi lebih lanjut, silakan lihat [Panduan Komunitas](https://github.com/datasea-dev) kami.
 
 <br>
 
 <div align="center">
-  <sub>Maintained with ❤️ by the Datasea Academy Team</sub>
+  <sub>Dikelola dengan ❤️ oleh Tim MIDTECH</sub>
 </div>
