@@ -14,8 +14,8 @@
 
 Saat ini, komunitas kami sedang membangun berbagai proyek data yang menarik. Baik Anda seorang mahasiswa, mentor, atau sekadar penasaran, berikut cara untuk terlibat:
 
-* **Jelajahi Riset**: Pelajari [Proyek Capstone Batch 1](#-riset-unggulan-2025) kami yang mencakup topik Perumahan, Kesehatan, hingga Analisis Spotify.
-* **Ikuti Bootcamp**: Dapatkan informasi tentang program Data Science "Eksanta" kami.
+* **Jelajahi Riset**: Pelajari proyek kami yang sudah tersedia mencakup topik Perumahan, Kesehatan, hingga Analisis Spotify.
+* **Ikuti Bootcamp**: Dapatkan informasi tentang program Data Science "Academy" kami.
 * **Berkontribusi**: Kami menerima *issues* dan *pull requests* pada dataset publik kami.
 * **Bertanya**: Gunakan tab [Issues](https://github.com/Datasea-Labs) untuk mendiskusikan temuan atau metodologi tertentu.
 
