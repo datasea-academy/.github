@@ -25,13 +25,13 @@ Saat ini, komunitas kami sedang membangun berbagai proyek data yang menarik. Bai
 
 Berikut adalah repositori aktif dari kohort (angkatan) terbaru kami:
 
-| Topik Riset | Sumber Dataset | Status |
-| :--- | :--- | :--- |
-| **📈 Sales Forecasting** | Data Ritel | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
-| **❤️ Heart Disease Classification** | Data Kesehatan | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
-| **🏠 House Prices Prediction** | Real Estate | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
-| **🎵 Spotify Trends Analysis** | Spotify API | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
-| **👥 Employee Attrition** | Data HR IBM | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
+| Topik Riset | Repository Link | Sumber Dataset | Status |
+| :--- | :--- | :--- | :--- |
+| **📈 Sales Data Analysis** | [sales-forecasting-time-series](https://github.com/Datasea-Labs/sales-forecasting-time-series) | Data Ritel | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
+| **❤️ Heart Disease Analysis** | [heart-disease-analysis](https://github.com/Datasea-Labs/heart-disease-analysis) | Data Kesehatan | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
+| **🏠 House Prices Analysis** | [house-prices-analysis](https://github.com/Datasea-Labs/house-prices-analysis) | Real Estate | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
+| **🎵 Spotify 2023 Analysis** | [spotify-songs-analysis](https://github.com/Datasea-Labs/spotify-songs-analysis) | Spotify Charts | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
+| **👥 HR Employee Attrition** | [hr-employee-attrition-analysis](https://github.com/Datasea-Labs/hr-employee-attrition-analysis) | Data HR IBM | ![Active](https://img.shields.io/badge/Status-Aktif-success) |
 
 ---
 
