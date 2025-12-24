@@ -17,7 +17,7 @@ Saat ini, komunitas kami sedang membangun berbagai proyek data yang menarik. Bai
 * **Jelajahi Riset**: Pelajari proyek kami yang sudah tersedia mencakup topik Perumahan, Kesehatan, hingga Analisis Spotify.
 * **Ikuti Bootcamp**: Dapatkan informasi tentang program Data Science "Academy" kami.
 * **Berkontribusi**: Kami menerima *issues* dan *pull requests* pada dataset publik kami.
-* **Bertanya**: Gunakan tab [Issues](https://github.com/Datasea-Labs) untuk mendiskusikan temuan atau metodologi tertentu.
+* **Bertanya**: Gunakan tab **Issue** untuk mendiskusikan temuan atau metodologi tertentu pada di repositori tertuju.
 
 ---
 
